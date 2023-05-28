@@ -307,10 +307,11 @@ function convertirTemperatura(){
 
 }
 
-console.log(convertirTemperatura());
+// console.log(convertirTemperatura());
 
 
-
+let hola = alert("Hola, Mundo!");
+console.log(hola);
 
 
 
